@@ -82,6 +82,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 + [Starboard](https://starboard.codevetter.com) - Discover relevant open-source repositories using project context, hybrid search, and inspectable repository evidence.
 + [GitDiagram](https://gitdiagram.com) - Replace "hub" with "diagram" in any GitHub URL to get an interactive architecture diagram of the repository.
 + [Manifest API Bot](https://github.com/apps/manifest-api-bot) - GitHub App that watches the third-party APIs your code calls and opens a pull request with the fix when one of them changes.
++ [latestshift](https://github.com/hamarshehmhmd/latestshift) - Find which GitHub Actions jobs break when `ubuntu-latest` moves to Ubuntu 26.04, check whether a red job failed only on the new runner image, and pin workflows to `ubuntu-24.04`.
 
 ## Emoji
 
